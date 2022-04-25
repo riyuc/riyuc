@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Duc and I'm currently an University Student in Canada. I'm abandonning my 2 years of Mathematics & Statistics major to pursue my dream of becoming a Software Developer. Here's some info about me!
+
 ⚡ Current Projects: 
 - Coffee Style, a cutting-edge website for coffee enthusiasts. (ReactJS + TailwindCSS + PHP/SQL).
 - datGrocer, a reliable Online Grocery Store in the tough times of COVID.

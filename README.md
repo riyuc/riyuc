@@ -7,7 +7,7 @@ My name is Duc and I'm currently an University Student in Canada. I'm abandonnin
 - datGrocer, a reliable Online Grocery Store in the tough times of COVID.
 
 🌱 Interests:
-Web development.
-Personal Finance.
+- Web development.
+- Personal Finance.
 
 💬 Reach me by email or LinkedIn! bongbang0101@gmail.com | https://www.linkedin.com/in/duc-anh-nguyen-7a348a18b

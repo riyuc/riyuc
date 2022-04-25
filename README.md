@@ -10,4 +10,4 @@ My name is Duc and I'm currently an University Student in Canada. I'm abandonnin
 - Web development.
 - Personal Finance.
 
-💬 Reach me by email or LinkedIn! bongbang0101@gmail.com | https://www.linkedin.com/in/duc-anh-nguyen-7a348a18b
+💬 Reach me by email or LinkedIn! bongbang0101@gmail.com | https://www.linkedin.com/in/DucAnhNguyen0
